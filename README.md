@@ -1,8 +1,8 @@
-# Student Grade API
+# 🎓 Student Grade API
 
-# Fait par Imène Bentifraouine
+# ✍️ Fait par Imène Bentifraouine
 
-## Technologies utilisées
+## 🚀 Technologies utilisées
  Ajouter les dépendances nécessaires :
    - Spring Boot DevTools : Pour une expérience de développement améliorée (rechargement rapide, LiveReload).
    - Spring Web : Pour créer des applications web, y compris des API RESTful.
@@ -10,14 +10,14 @@
    - MySQL Driver : Pour connecter l'application à une base de données MySQL.
    - Validation : Pour la validation des données via Bean Validation.
 
-## Prérequis
+## 📦 Prérequis
 Avant de commencer faudrait installé :
 - Java 17+ : [Télécharger Java 17+](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 - Maven ou Gradle : [Installer Maven](https://maven.apache.org/install.html)
 - MySQL ou MariaDB : [Télécharger MySQL](https://dev.mysql.com/downloads/installer/)
 - Postman : [Télécharger Postman](https://www.postman.com/) pour tester les endpoints.
 
-## Installation
+## ⚙️ Installation
 1. Clonez le projet :
    git clone https://github.com/EmiPretty/studentGradesApi.git
 
@@ -29,3 +29,5 @@ Créez une base de données student_grade_management.
 4. Exécutez l'application :
 Avec l'IDE ou vous pouvez exécuter la commande suivante dans le terminal :
 ./mvnw spring-boot:run
+
+
