@@ -4,6 +4,15 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Java
+*.class
+*.jar
+*.war
+*.log
+
+# System
+.DS_Store
+
 ### STS ###
 .apt_generated
 .classpath
@@ -28,6 +37,9 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+
+# Env
+.env
 
 ### VS Code ###
 .vscode/
